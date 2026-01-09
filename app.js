@@ -489,5 +489,3 @@ class IPScanner {
 document.addEventListener('DOMContentLoaded', () => {
     window.scanner = new IPScanner();
 });
-</CodeContent >
-    <parameter name="Description">Updated frontend to use real network scanning API with actual ping requests
