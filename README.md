@@ -1,6 +1,6 @@
 # 🔍 NetScan - IP Address Finder
 
-A beautiful, real-time network IP scanner that helps you discover available IP addresses in your network for new device assignments.
+A real-time network IP scanner that helps you discover available IP addresses in your network for new device assignments.
 
 ![NetScan Interface](https://img.shields.io/badge/Status-Production%20Ready-green)
 ![Node.js](https://img.shields.io/badge/Node.js-v16+-blue)
