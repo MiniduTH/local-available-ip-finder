@@ -36,7 +36,7 @@ A beautiful, real-time network IP scanner that helps you discover available IP a
 
 ```bash
 # Clone or navigate to the project
-cd /home/minidu/pvt/ip-finder
+cd ip-finder
 
 # Start the server
 node server.js
